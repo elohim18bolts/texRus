@@ -1,1 +1,4 @@
 #+title:  TexRus
+
+* Summary
+This is a simple library that converts =rust= into =tex=.
